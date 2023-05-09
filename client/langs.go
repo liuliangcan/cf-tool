@@ -49,6 +49,7 @@ var Langs = map[string]string{
 	"46": "Java 8 ZIP",
 	"47": "J",
 	"56": "Microsoft Q#",
+	"70": "PyPy 3.9.10 (7.3.9, 64bit)",
 }
 
 // LangsExt language's ext
